@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="col-md-12 pokedex-controllers">
                     <span>
-                        <img src="{{url('images/pokedex-power.png')}}" alt="pokedex-control-power">
+                        <img src="{{url('images/Pokedex-power.png')}}" alt="pokedex-control-power">
                     </span>
                     <span class="pokedex-controls">
                         <img src="{{url('images/pokedex-controls.png')}}" alt="pokedex-controls">
