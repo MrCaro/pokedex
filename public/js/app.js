@@ -66462,7 +66462,7 @@ if (document.getElementById('pokedex-json')) {
 /*! exports provided: 0, 1, 2, 3, 4, 5, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("[{\"pokemon_name\":\"Pikachu\",\"pokemon_type\":\"Electric\",\"pokemon_image\":\"http://pokedex.test/images/pikachu-img.png\"},{\"pokemon_name\":\"Bulbasaur\",\"pokemon_type\":\"Grass\",\"pokemon_image\":\"http://pokedex.test/images/bulbasaur-img.png\"},{\"pokemon_name\":\"Squirtle\",\"pokemon_type\":\"Water\",\"pokemon_image\":\"http://pokedex.test/images/squirtle-img.png\"},{\"pokemon_name\":\"Charmander\",\"pokemon_type\":\"Fire\",\"pokemon_image\":\"http://pokedex.test/images/charmander-img.png\"},{\"pokemon_name\":\"Machop\",\"pokemon_type\":\"Fighting\",\"pokemon_image\":\"http://pokedex.test/images/machop-img.png\"},{\"pokemon_name\":\"Pidgey\",\"pokemon_type\":\"Flying\",\"pokemon_image\":\"http://pokedex.test/images/pidgey-img.png\"}]");
+module.exports = JSON.parse("[{\"pokemon_name\":\"Pikachu\",\"pokemon_type\":\"Electric\",\"pokemon_image\":\"images/pikachu-img.png\"},{\"pokemon_name\":\"Bulbasaur\",\"pokemon_type\":\"Grass\",\"pokemon_image\":\"images/bulbasaur-img.png\"},{\"pokemon_name\":\"Squirtle\",\"pokemon_type\":\"Water\",\"pokemon_image\":\"images/squirtle-img.png\"},{\"pokemon_name\":\"Charmander\",\"pokemon_type\":\"Fire\",\"pokemon_image\":\"images/charmander-img.png\"},{\"pokemon_name\":\"Machop\",\"pokemon_type\":\"Fighting\",\"pokemon_image\":\"images/machop-img.png\"},{\"pokemon_name\":\"Pidgey\",\"pokemon_type\":\"Flying\",\"pokemon_image\":\"images/pidgey-img.png\"}]");
 
 /***/ }),
 
