@@ -33,7 +33,7 @@
             </div>
         </div>
         {{--    pokedex pokemons list area    --}}
-        <div class="flex-center position-ref full-height">
+        <div class="flex-center position-ref full-height rounded-container">
             <div class="content">
                 <div id="pokedex-json" class="links">
                 </div>

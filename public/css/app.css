@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
 
+body {
+  background-color: #750f12 !important;
+}
+
 .impact-font-family {
   font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif;
 }
@@ -52,6 +56,12 @@
 
 .pokedex-header .pokemon-logo {
   padding-top: 4vh !important;
+}
+
+.rounded-container {
+  background-color: #FAFBFB !important;
+  border-top-right-radius: 50px !important;
+  border-top-left-radius: 50px !important;
 }
 
 .pokemon-list-container {
