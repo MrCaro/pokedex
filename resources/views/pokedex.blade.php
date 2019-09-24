@@ -6,7 +6,8 @@
 
         <title>Pokedex App</title>
 
-        <!-- Fonts -->
+        <link rel="shortcut icon" type="image/x-icon" href="images/pokedex_favicon.ico" />
+
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
         <link href="../../css/app.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
