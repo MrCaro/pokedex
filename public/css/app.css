@@ -80,13 +80,19 @@
   text-transform: uppercase;
 }
 
+.ash-trainer {
+  position: absolute !important;
+  top: 28vh;
+  left: 0;
+}
+
 .pokemon-list-margin {
   margin-top: 2em;
 }
 
 .searchBarPokedex {
   position: absolute !important;
-  top: 34vh;
+  top: 33vh;
 }
 
 .searchBarPokedex ::-webkit-input-placeholder {

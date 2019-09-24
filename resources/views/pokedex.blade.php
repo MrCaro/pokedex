@@ -27,7 +27,7 @@
                 <div class="col-md-12 text-center pokemon-logo">
                     <img src="{{url('images/Pokemon-logo.png')}}" alt="pokemon logo">
                 </div>
-                <div class="col-md-12 text-center">
+                <div class="col-md-12 text-center ash-trainer">
                     <img src="{{url('images/Ash-trainer.png')}}" alt="ash trainer">
                 </div>
             </div>
