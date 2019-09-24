@@ -1,0 +1,79 @@
+@import "variables";
+//Fonts
+.impact-font-family { font-family: $font-family-impact; }
+
+//Colors pokemons
+@mixin pokemon-type ($type) {
+  background-color: $type;
+  padding: 0 2%;
+
+  @if(($type == $water) or ($type == $fire)) {
+    color: white;
+  }
+}
+
+.Electric { @include pokemon-type($electric); }
+.Grass { @include pokemon-type($grass); }
+.Water { @include pokemon-type($water); }
+.Fire { @include pokemon-type($fire); }
+.Fighting { @include pokemon-type($fight); }
+.Flying { @include pokemon-type($fly); }
+
+//Pokedex header
+.pokedex-header {
+  background: $pokedex-head-bg-color;
+  height: $pokedex-header-height;
+
+  .pokedex-controllers {
+    padding-top: $pokedex-controllers-padding-top;
+
+    .pokedex-controls {
+      position: absolute;
+      right: 0;
+    }
+  }
+
+  .pokemon-logo { padding-top: $pokemon-logo-padding-top; }
+}
+
+//Pokedex body
+.pokemon-list-container {
+  display: inline-flex;
+  padding: 2em;
+  text-align: center !important;
+
+  .input-searchBar {
+    padding: 1em 4em;
+    border-radius: 50px;
+    background: black !important;
+    border-color: black !important;
+    color: white;
+    box-shadow: 0px 10px 10px #00000047;
+  }
+
+  .fa-search {
+    color: white;
+    position: relative;
+    top: 1.5em;
+    left: 3em;
+  }
+
+  .pokemon-names {
+    text-transform: uppercase;
+  }
+}
+
+.pokemon-list-margin { margin-top: 2em; }
+
+.searchBarPokedex {
+  position: absolute !important;
+  top: 34vh;
+
+  ::placeholder {
+    color: white;
+    opacity: 1;
+    text-align: center;
+  }
+}
+
+.pokeballs-image { margin-top: 4em; }

@@ -1,0 +1,28 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-family-impact: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$electric: #fdd554;
+$grass: #81d82c;
+$water: #2aaafa;
+$fire: #D50000;
+$fight: #fea050;
+$fly: #cfe7f9;
+
+
+$pokedex-light-red: #E71D23;
+$pokedex-dark-red: #740F12;
+
+//Pokedex color
+$pokedex-head-bg-color: linear-gradient(180deg, $pokedex-light-red, $pokedex-dark-red) !important;
+
+//Sizes
+$pokedex-header-height: 40vh !important;
+$pokemon-logo-padding-top: 4vh !important;
+$pokedex-controllers-padding-top: 2vh !important;
