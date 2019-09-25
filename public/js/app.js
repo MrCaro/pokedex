@@ -66459,10 +66459,10 @@ if (document.getElementById('pokedex-json')) {
 /*!*******************************************!*\
   !*** ./resources/json/pokemons-list.json ***!
   \*******************************************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("[{\"pokemon_name\":\"Pikachu\",\"pokemon_type\":\"Electric\",\"pokemon_image\":\"images/pikachu-img.png\"},{\"pokemon_name\":\"Bulbasaur\",\"pokemon_type\":\"Grass\",\"pokemon_image\":\"images/bulbasaur-img.png\"},{\"pokemon_name\":\"Squirtle\",\"pokemon_type\":\"Water\",\"pokemon_image\":\"images/squirtle-img.png\"},{\"pokemon_name\":\"Charmander\",\"pokemon_type\":\"Fire\",\"pokemon_image\":\"images/charmander-img.png\"},{\"pokemon_name\":\"Machop\",\"pokemon_type\":\"Fighting\",\"pokemon_image\":\"images/machop-img.png\"},{\"pokemon_name\":\"Pidgey\",\"pokemon_type\":\"Flying\",\"pokemon_image\":\"images/pidgey-img.png\"}]");
+module.exports = JSON.parse("[{\"pokemon_name\":\"Pikachu\",\"pokemon_type\":\"Electric\",\"pokemon_image\":\"images/pikachu-img.png\"},{\"pokemon_name\":\"Bulbasaur\",\"pokemon_type\":\"Grass\",\"pokemon_image\":\"images/bulbasaur-img.png\"},{\"pokemon_name\":\"Squirtle\",\"pokemon_type\":\"Water\",\"pokemon_image\":\"images/squirtle-img.png\"},{\"pokemon_name\":\"Charmander\",\"pokemon_type\":\"Fire\",\"pokemon_image\":\"images/charmander-img.png\"},{\"pokemon_name\":\"Machop\",\"pokemon_type\":\"Fighting\",\"pokemon_image\":\"images/machop-img.png\"},{\"pokemon_name\":\"Pidgey\",\"pokemon_type\":\"Flying\",\"pokemon_image\":\"images/pidgey-img.png\"},{\"pokemon_name\":\"Abra\",\"pokemon_type\":\"Psychic\",\"pokemon_image\":\"images/abra-img.png\"},{\"pokemon_name\":\"Jigglypuff\",\"pokemon_type\":\"Fairy\",\"pokemon_image\":\"images/jigglypuff-img.png\"},{\"pokemon_name\":\"Haunter\",\"pokemon_type\":\"Ghost\",\"pokemon_image\":\"images/haunter-img.png\"},{\"pokemon_name\":\"Cubone\",\"pokemon_type\":\"Ground\",\"pokemon_image\":\"images/cubone-img.png\"},{\"pokemon_name\":\"Eevee\",\"pokemon_type\":\"Normal\",\"pokemon_image\":\"images/eevee-img.png\"},{\"pokemon_name\":\"Articuno\",\"pokemon_type\":\"Ice\",\"pokemon_image\":\"images/articuno-img.png\"}]");
 
 /***/ }),
 

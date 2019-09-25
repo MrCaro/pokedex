@@ -5,21 +5,28 @@ body { background-color: #750f12 !important; }
 .impact-font-family { font-family: $font-family-impact; }
 
 //Colors pokemons
-@mixin pokemon-type ($type) {
+@mixin pokemon-type ($type, $textColor) {
   background-color: $type;
   padding: 0 2%;
 
-  @if(($type == $water) or ($type == $fire)) {
+  @if($textColor == white) {
     color: white;
   }
 }
 
-.Electric { @include pokemon-type($electric); }
-.Grass { @include pokemon-type($grass); }
-.Water { @include pokemon-type($water); }
-.Fire { @include pokemon-type($fire); }
-.Fighting { @include pokemon-type($fight); }
-.Flying { @include pokemon-type($fly); }
+.Electric { @include pokemon-type($electric, $black); }
+.Grass { @include pokemon-type($grass, $black); }
+.Water { @include pokemon-type($water, $white); }
+.Fire { @include pokemon-type($fire, $white); }
+.Fighting { @include pokemon-type($fight, $black); }
+.Flying { @include pokemon-type($fly, $black); }
+.Psychic {  @include pokemon-type($psychic, $white); }
+.Fairy {  @include pokemon-type($fairy, $black); }
+.Ghost {  @include pokemon-type($ghost, $white); }
+.Ground {  @include pokemon-type($ground, $black); }
+.Normal {  @include pokemon-type($normal, $white); }
+.Ice {  @include pokemon-type($ice, $black); }
+
 
 //Pokedex header
 .pokedex-header {
