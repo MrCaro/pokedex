@@ -1,10 +1,10 @@
 @import "variables";
-body { background-color: #750f12 !important; }
+body { background-color: $body-bg !important; }
 
 //Fonts
 .impact-font-family { font-family: $font-family-impact; }
 
-//Colors pokemons
+//Colors pokemons type and text color
 @mixin pokemon-type ($type, $textColor) {
   background-color: $type;
   padding: 0 2%;
@@ -14,19 +14,21 @@ body { background-color: #750f12 !important; }
   }
 }
 
+//pokemon types
+.Bug { @include pokemon-type($bug, $white); }
 .Electric { @include pokemon-type($electric, $black); }
-.Grass { @include pokemon-type($grass, $black); }
-.Water { @include pokemon-type($water, $white); }
-.Fire { @include pokemon-type($fire, $white); }
+.Fairy { @include pokemon-type($fairy, $black); }
 .Fighting { @include pokemon-type($fight, $black); }
+.Fire { @include pokemon-type($fire, $white); }
 .Flying { @include pokemon-type($fly, $black); }
-.Psychic {  @include pokemon-type($psychic, $white); }
-.Fairy {  @include pokemon-type($fairy, $black); }
 .Ghost {  @include pokemon-type($ghost, $white); }
-.Ground {  @include pokemon-type($ground, $black); }
-.Normal {  @include pokemon-type($normal, $white); }
-.Ice {  @include pokemon-type($ice, $black); }
-
+.Grass { @include pokemon-type($grass, $black); }
+.Ground { @include pokemon-type($ground, $black); }
+.Ice { @include pokemon-type($ice, $black); }
+.Poison { @include pokemon-type($poison, $white); }
+.Psychic { @include pokemon-type($psychic, $white); }
+.Normal { @include pokemon-type($normal, $white); }
+.Water { @include pokemon-type($water, $white); }
 
 //Pokedex header
 .pokedex-header {

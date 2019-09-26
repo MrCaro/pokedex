@@ -10,19 +10,24 @@
       "pokemon_image": "images/bulbasaur-img.png"
     },
     {
-      "pokemon_name": "Squirtle",
-      "pokemon_type": "Water",
-      "pokemon_image": "images/squirtle-img.png"
-    },
-    {
       "pokemon_name": "Charmander",
       "pokemon_type": "Fire",
       "pokemon_image": "images/charmander-img.png"
     },
     {
-      "pokemon_name": "Machop",
-      "pokemon_type": "Fighting",
-      "pokemon_image": "images/machop-img.png"
+      "pokemon_name": "Squirtle",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/squirtle-img.png"
+    },
+    {
+      "pokemon_name": "Caterpie",
+      "pokemon_type": "Bug",
+      "pokemon_image": "images/caterpie-img.png"
+    },
+    {
+      "pokemon_name": "Weedle",
+      "pokemon_type": "Bug",
+      "pokemon_image": "images/weedle-img.png"
     },
     {
       "pokemon_name": "Pidgey",
@@ -30,14 +35,49 @@
       "pokemon_image": "images/pidgey-img.png"
     },
     {
-      "pokemon_name": "Abra",
-      "pokemon_type": "Psychic",
-      "pokemon_image": "images/abra-img.png"
+      "pokemon_name": "Rattata",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/rattata-img.png"
+    },
+    {
+      "pokemon_name": "Spearow",
+      "pokemon_type": "Flying",
+      "pokemon_image": "images/spearow-img.png"
+    },
+    {
+      "pokemon_name": "Ekans",
+      "pokemon_type": "Poison",
+      "pokemon_image": "images/ekans-img.png"
+    },
+    {
+      "pokemon_name": "Sandshrew",
+      "pokemon_type": "Ground",
+      "pokemon_image": "images/sandshrew-img.png"
+    },
+    {
+      "pokemon_name": "Nidoran",
+      "pokemon_type": "Poison",
+      "pokemon_image": "images/nidoran-img.png"
+    },
+    {
+      "pokemon_name": "Clefairy",
+      "pokemon_type": "Fairy",
+      "pokemon_image": "images/clefairy-img.png"
     },
     {
       "pokemon_name": "Jigglypuff",
       "pokemon_type": "Fairy",
       "pokemon_image": "images/jigglypuff-img.png"
+    },
+    {
+      "pokemon_name": "Abra",
+      "pokemon_type": "Psychic",
+      "pokemon_image": "images/abra-img.png"
+    },
+    {
+      "pokemon_name": "Machop",
+      "pokemon_type": "Fighting",
+      "pokemon_image": "images/machop-img.png"
     },
     {
       "pokemon_name": "Haunter",

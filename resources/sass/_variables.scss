@@ -1,29 +1,13 @@
-// Body
-$body-bg: #f8fafc;
+//Body
+$body-bg: #750f12;
 
-// Typography
+//Typography
 $font-family-sans-serif: 'Nunito', sans-serif;
 $font-family-impact: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
 $font-size-base: 0.9rem;
 $line-height-base: 1.6;
 
-// Colors
-$electric: #fdd554;
-$grass: #81d82c;
-$water: #2aaafa;
-$fire: #D50000;
-$fight: #fea050;
-$fly: #cfe7f9;
-$psychic: #EB00FF;
-$fairy: #FFA5FF;
-$ghost: #A700FF;
-$ground: #DDBB55;
-$normal: #AAAA99;
-$ice: #00FCFC;
-
-$white: white;
-$black: black;
-
+//header banner colors
 $pokedex-light-red: #E71D23;
 $pokedex-dark-red: #740F12;
 
@@ -34,3 +18,23 @@ $pokedex-head-bg-color: linear-gradient(180deg, $pokedex-light-red, $pokedex-dar
 $pokedex-header-height: 40vh !important;
 $pokemon-logo-padding-top: 4vh !important;
 $pokedex-controllers-padding-top: 2vh !important;
+
+//Colors for pokemon types
+$bug: #AABB22;
+$electric: #fdd554;
+$fairy: #FFA5FF;
+$fight: #fea050;
+$fire: #D50000;
+$fly: #cfe7f9;
+$ghost: #A700FF;
+$grass: #81d82c;
+$ground: #DDBB55;
+$ice: #00FCFC;
+$normal: #AAAA99;
+$poison: #AA5599;
+$psychic: #EB00FF;
+$water: #2aaafa;
+
+//Font color for pokemon type
+$white: white;
+$black: black;
