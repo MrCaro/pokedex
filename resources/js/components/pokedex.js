@@ -37,7 +37,7 @@ export default class Pokedex extends Component {
                         {filteredData.map(item => (
                             <div key={item.pokemon_name} className="col-md-3 col-sm-6 col-6 justify-content-center pokemon-list-container">
                                 <div>
-                                    <img src={item.pokemon_image} alt="pokemon-image"/> <br/>
+                                    <img className="pokemon-animation" src={item.pokemon_image} alt="pokemon-image"/> <br/>
                                     <strong className="pokemon-names impact-font-family">{item.pokemon_name}</strong>  <br/>
                                     <span className={item.pokemon_type}>{item.pokemon_type}</span>
                                 </div>

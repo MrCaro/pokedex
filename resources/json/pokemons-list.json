@@ -80,9 +80,79 @@
       "pokemon_image": "images/machop-img.png"
     },
     {
-      "pokemon_name": "Haunter",
+      "pokemon_name": "Bellsprout",
+      "pokemon_type": "Grass",
+      "pokemon_image": "images/bellsprout-img.png"
+    },
+    {
+      "pokemon_name": "Tentacool",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/tentacool-img.png"
+    },
+    {
+      "pokemon_name": "Geodude",
+      "pokemon_type": "Rock",
+      "pokemon_image": "images/geodude-img.png"
+    },
+    {
+      "pokemon_name": "Ponyta",
+      "pokemon_type": "Fire",
+      "pokemon_image": "images/ponyta-img.png"
+    },
+    {
+      "pokemon_name": "Slowpoke",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/slowpoke-img.png"
+    },
+    {
+      "pokemon_name": "Magnemite",
+      "pokemon_type": "Electric",
+      "pokemon_image": "images/magnemite-img.png"
+    },
+    {
+      "pokemon_name": "Farfetch",
+      "pokemon_type": "Flying",
+      "pokemon_image": "images/farfetch-img.png"
+    },
+    {
+      "pokemon_name": "Seel",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/seel-img.png"
+    },
+    {
+      "pokemon_name": "Grimer",
+      "pokemon_type": "Poison",
+      "pokemon_image": "images/grimer-img.png"
+    },
+    {
+      "pokemon_name": "Shellder",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/shellder-img.png"
+    },
+    {
+      "pokemon_name": "Gastly",
       "pokemon_type": "Ghost",
-      "pokemon_image": "images/haunter-img.png"
+      "pokemon_image": "images/gastly-img.png"
+    },
+    {
+      "pokemon_name": "Drowzee",
+      "pokemon_type": "Psychic",
+      "pokemon_image": "images/drowzee-img.png"
+    },
+    {
+      "pokemon_name": "Krabby",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/krabby-img.png"
+    },
+    {
+      "pokemon_name": "Voltorb",
+      "pokemon_type": "Electric",
+      "pokemon_image": "images/voltorb-img.png"
+    },
+    {
+      "pokemon_name": "Exeggcute",
+      "pokemon_type": "Grass",
+      "pokemon_image": "images/exeggcute-img.png"
     },
     {
       "pokemon_name": "Cubone",
@@ -90,13 +160,163 @@
       "pokemon_image": "images/cubone-img.png"
     },
     {
+      "pokemon_name": "Hitmonlee",
+      "pokemon_type": "Fighting",
+      "pokemon_image": "images/hitmonlee-img.png"
+    },
+    {
+      "pokemon_name": "Lickitung",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/lickitung-img.png"
+    },
+    {
+      "pokemon_name": "Koffing",
+      "pokemon_type": "Poison",
+      "pokemon_image": "images/koffing-img.png"
+    },
+    {
+      "pokemon_name": "Rhyhorn",
+      "pokemon_type": "Ground",
+      "pokemon_image": "images/rhyhorn-img.png"
+    },
+    {
+      "pokemon_name": "Chansey",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/chansey-img.png"
+    },
+    {
+      "pokemon_name": "Tangela",
+      "pokemon_type": "Grass",
+      "pokemon_image": "images/tangela-img.png"
+    },
+    {
+      "pokemon_name": "Kangaskhan",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/kangaskhan-img.png"
+    },
+    {
+      "pokemon_name": "Horsea",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/horsea-img.png"
+    },
+    {
+      "pokemon_name": "Goldeen",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/goldeen-img.png"
+    },
+    {
+      "pokemon_name": "Staryu",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/staryu-img.png"
+    },
+    {
+      "pokemon_name": "Mr. Mime",
+      "pokemon_type": "Psychic",
+      "pokemon_image": "images/mr-mime-img.png"
+    },
+    {
+      "pokemon_name": "Scyther",
+      "pokemon_type": "Flying",
+      "pokemon_image": "images/scyther-img.png"
+    },
+    {
+      "pokemon_name": "Jynx",
+      "pokemon_type": "Ice",
+      "pokemon_image": "images/jynx-img.png"
+    },
+    {
+      "pokemon_name": "Electabuzz",
+      "pokemon_type": "Electric",
+      "pokemon_image": "images/electabuzz-img.png"
+    },
+    {
+      "pokemon_name": "Magmar",
+      "pokemon_type": "Fire",
+      "pokemon_image": "images/magmar-img.png"
+    },
+    {
+      "pokemon_name": "Pinsir",
+      "pokemon_type": "Bug",
+      "pokemon_image": "images/pinsir-img.png"
+    },
+    {
+      "pokemon_name": "Tauros",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/tauros-img.png"
+    },
+    {
+      "pokemon_name": "Magikarp",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/magikarp-img.png"
+    },
+    {
+      "pokemon_name": "Lapras",
+      "pokemon_type": "Ice",
+      "pokemon_image": "images/lapras-img.png"
+    },
+    {
+      "pokemon_name": "Ditto",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/ditto-img.png"
+    },
+    {
       "pokemon_name": "Eevee",
       "pokemon_type": "Normal",
       "pokemon_image": "images/eevee-img.png"
     },
     {
+      "pokemon_name": "Porygon",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/porygon-img.png"
+    },
+    {
+      "pokemon_name": "Omanyte",
+      "pokemon_type": "Water",
+      "pokemon_image": "images/omanyte-img.png"
+    },
+    {
+      "pokemon_name": "Kabuto",
+      "pokemon_type": "Rock",
+      "pokemon_image": "images/kabuto-img.png"
+    },
+    {
+      "pokemon_name": "Aerodactyl",
+      "pokemon_type": "Flying",
+      "pokemon_image": "images/aerodactyl-img.png"
+    },
+    {
+      "pokemon_name": "Snorlax",
+      "pokemon_type": "Normal",
+      "pokemon_image": "images/snorlax-img.png"
+    },
+    {
       "pokemon_name": "Articuno",
       "pokemon_type": "Ice",
       "pokemon_image": "images/articuno-img.png"
+    },
+    {
+      "pokemon_name": "Zapdos",
+      "pokemon_type": "Electric",
+      "pokemon_image": "images/zapdos-img.png"
+    },
+    {
+      "pokemon_name": "Moltres",
+      "pokemon_type": "Fire",
+      "pokemon_image": "images/moltres-img.png"
+    },
+    {
+      "pokemon_name": "Dratini",
+      "pokemon_type": "Dragon",
+      "pokemon_image": "images/dratini-img.png"
+    },
+    {
+      "pokemon_name": "Mewtwo",
+      "pokemon_type": "Psychic",
+      "pokemon_image": "images/mewtwo-img.png"
+    },
+    {
+      "pokemon_name": "Mewt",
+      "pokemon_type": "Psychic",
+      "pokemon_image": "images/mew-img.png"
     }
 ]

@@ -14,8 +14,19 @@ body { background-color: $body-bg !important; }
   }
 }
 
+//animation
+.pokemon-animation {
+  transform: translate(0, 0);
+  transition: transform 500ms;
+}
+
+.pokemon-animation:hover {
+  transform: translate(0, -1em);
+}
+
 //pokemon types
 .Bug { @include pokemon-type($bug, $white); }
+.Dragon { @include pokemon-type($dragon, $white); }
 .Electric { @include pokemon-type($electric, $black); }
 .Fairy { @include pokemon-type($fairy, $black); }
 .Fighting { @include pokemon-type($fight, $black); }
@@ -28,6 +39,7 @@ body { background-color: $body-bg !important; }
 .Poison { @include pokemon-type($poison, $white); }
 .Psychic { @include pokemon-type($psychic, $white); }
 .Normal { @include pokemon-type($normal, $white); }
+.Rock { @include pokemon-type($rock, $white); }
 .Water { @include pokemon-type($water, $white); }
 
 //Pokedex header
